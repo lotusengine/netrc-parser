@@ -1,0 +1,3 @@
+{
+  "extends": ["@lotusengine/eslint-config-lotusengine"]
+}
